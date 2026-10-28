@@ -43,3 +43,4 @@ OctoFit Tracker is a three-tier application for a school fitness program. The st
 - Frontend command: `npm test --prefix octofit-tracker/frontend` - Baseline failures are placeholder UI implementations and missing states.
 - Backend build command: `npm run build --prefix octofit-tracker/backend` - Must complete without TypeScript errors.
 - Frontend build command: `npm run build --prefix octofit-tracker/frontend` - Must complete without build errors.
+
